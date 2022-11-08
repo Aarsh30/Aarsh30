@@ -29,7 +29,7 @@
 
 <p align="center">
 <a href="https://github.com/Aarsh30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarsh30 &show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarsh30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarsh30 &theme=algolia"/>
 </a>
 </p>
