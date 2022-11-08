@@ -25,10 +25,10 @@
 
 [![Gmail Badge](https://img.shields.io/badge/patelaarsh3011@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:shreeagrawal2002@gmail.com)](mailto:shreeagrawal2002@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mayank-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aarshpatel30/)](https://www.linkedin.com/in/aarshpatel30/)
+[![Linkedin Badge](https://img.shields.io/badge/-AarshPatel-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aarshpatel30/)](https://www.linkedin.com/in/aarshpatel30/)
 
 <p align="center">
-<a href="https://github.com/Mxyank">
+<a href="https://github.com/Aarsh30">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mxyank&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxyank&theme=algolia"/>
 </a>
