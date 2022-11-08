@@ -2,14 +2,14 @@
     <img src="12.png" width="1000">
 </p>
 <h2 align="center"> Hey, Aarsh Patel(he/him)👋 </h2>
-<h3 align="center"> DevOps🥑, Communities👨‍👩‍👧‍👦 and Hackathons👨‍💻 </h3>
+<h3 align="center"> Developer👨‍💻, Communities👨‍👩‍👧‍👦, YouTuber📹 </h3>
 
 ---
 
 ### Experience 📈
 
 - 
-- 🙌 Communities active with: [![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com/en-US/profile/3686)](https://studentambassadors.microsoft.com/en-US/profile/3686) [![Major League Hacking](http://img.shields.io/badge/-Major_League_Hacking-white?style=plastic&logo=major-league-hacking&logoColor=265A8F&link=https://mlh.io/)](https://mlh.io/) [![Google Developer Student Club](https://img.shields.io/badge/-Google_Developer_Student_Club:VIT,_Amravati-red?style=plastic&logo=google&logoColor=white&link=https://bit.ly/dsc-amity-discord)](https://bit.ly/dsc-amity-discord) [![.NET](http://img.shields.io/badge/-.NET_Foundation-purple?style=plastic&logo=.Net&logoColor=white&link=https://dotnetfoundation.org/)](https://dotnetfoundation.org/) 
+- 🙌 Communities active with: [![Open Source Community](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com/en-US/profile/3686)](https://studentambassadors.microsoft.com/en-US/profile/3686) [![Major League Hacking](http://img.shields.io/badge/-Major_League_Hacking-white?style=plastic&logo=major-league-hacking&logoColor=265A8F&link=https://mlh.io/)](https://mlh.io/) [![Google Developer Student Club](https://img.shields.io/badge/-Google_Developer_Student_Club:VIT,_Amravati-red?style=plastic&logo=google&logoColor=white&link=https://bit.ly/dsc-amity-discord)](https://bit.ly/dsc-amity-discord) [![.NET](http://img.shields.io/badge/-.NET_Foundation-purple?style=plastic&logo=.Net&logoColor=white&link=https://dotnetfoundation.org/)](https://dotnetfoundation.org/) 
 
 - 🔭 Have played around with: ![Xamarin.Forms](https://img.shields.io/badge/-Xamarin.Forms-blue?style=plastic&logo=xamarin&logoColor=white) ![.NET](http://img.shields.io/badge/-.NET_Core-purple?style=plastic&logo=.Net&logoColor=white) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-blue?style=plastic&amp;logo=.Net&amp;logoColor=white) ![C#](http://img.shields.io/badge/-C%23-orange?style=plastic&logo=c-sharp&logoColor=white) ![Azure](https://img.shields.io/badge/-Microsoft_Azure-azure?style=plastic&logo=microsoft-azure&logoColor=blue) ![Java](https://img.shields.io/badge/-Java-red?style=plastic&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=plastic&amp;logo=mysql&amp;logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-green?style=plastic&logo=Microsoft-SQL-Server) ![Twilio](https://img.shields.io/badge/-Twilio-navy?style=plastic&logo=twilio) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3) 
 
