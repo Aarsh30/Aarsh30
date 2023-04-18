@@ -16,14 +16,14 @@
 
 - 🌱 Currently learning:  ![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=plastic&logo=javascript) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb) ![PHP](https://img.shields.io/badge/-PHP-black?style=plastic&amp;logo=php&amp;logoColor=white)
 
-- 📜 For more details, visit [![Website Badge](https://img.shields.io/badge/-My_Website-blue?style=plastic&logo=Website&logoColor=white)](file:///D:/Express%20js/myapp/public/index.html)
+- 📜 For more details, visit [![Website Badge](https://img.shields.io/badge/-My_Website-blue?style=plastic&logo=Website&logoColor=white)](https://aarsh-patel.vercel.app/)
 
 ### Want To Contact Me? 📱
 
 
-[![Instagram Badge](https://img.shields.io/badge/-excellence_exploring-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/__mayank28/)](https://www.instagram.com/__mayank28/)
+[![Instagram Badge](https://img.shields.io/badge/-aarsh30-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/__mayank28/)](https://www.instagram.com/__mayank28/)
 
-[![Gmail Badge](https://img.shields.io/badge/patelaarsh3011@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:shreeagrawal2002@gmail.com)](mailto:shreeagrawal2002@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/patelaarsh3011@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:patelaarsh3011@gmail.com)](mailto:patelaarsh3011@gmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-AarshPatel-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aarshpatel30/)](https://www.linkedin.com/in/aarshpatel30/)
 
