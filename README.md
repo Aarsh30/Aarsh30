@@ -33,3 +33,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarsh30&theme=algolia"/>
 </a>
 </p>
+
+[![Aarsh30's GitHub | Languages Over Time](https://stats.quine.sh/Aarsh30/languages-over-time?theme=light)](https://quine.sh)
