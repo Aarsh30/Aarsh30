@@ -1,31 +1,45 @@
 <p align="center">
     <img src="12.png" width="1000">
 </p>
-<h2 align="center"> Hey, Aarsh Patel(he/him)👋 </h2>
+<h2 align="center"> Hey There,I Am Aarsh Patel👋 </h2>
+
+</p>
 <h3 align="center"> Developer👨‍💻, Communities👨‍👩‍👧‍👦, YouTuber📹 </h3>
 
 ---
 
-### Experience 📈
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Ashu0Singh&color=blueviolet&style=for-the-badge" />
+</p>
 
-- 🙌 Communities active with: [![Open Source Community](https://img.shields.io/badge/-Open_Source_Community_-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com/en-US/profile/3686)](https://studentambassadors.microsoft.com/en-US/profile/3686) [![Social Summer of Code 23](http://img.shields.io/badge/-Social-Summer-of-Code-2023-white?style=plastic&logo=Social-Summer-of-Code&logoColor=265A8F&link=https://mlh.io/)](https://mlh.io/) [![Google Developer Student Club](https://img.shields.io/badge/-Google_Developer_Student_Club:VIT,_Amravati-red?style=plastic&logo=google&logoColor=white&link=https://bit.ly/dsc-amity-discord)](https://bit.ly/dsc-amity-discord) 
+### Had Learn and Fun with it 📈
 
-- 🔭 Have played around with: ![Google Cloud Platform](https://img.shields.io/badge/-Xamarin.Forms-blue?style=plastic&logo=xamarin&logoColor=white) ![.NET](http://img.shields.io/badge/-.NET_Core-purple?style=plastic&logo=.Net&logoColor=white) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-blue?style=plastic&amp;logo=.Net&amp;logoColor=white) ![C#](http://img.shields.io/badge/-C%23-orange?style=plastic&logo=c-sharp&logoColor=white) ![Azure](https://img.shields.io/badge/-Microsoft_Azure-azure?style=plastic&logo=microsoft-azure&logoColor=blue) ![Java](https://img.shields.io/badge/-Java-red?style=plastic&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=plastic&amp;logo=mysql&amp;logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-green?style=plastic&logo=Microsoft-SQL-Server) ![Twilio](https://img.shields.io/badge/-Twilio-navy?style=plastic&logo=twilio) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3) 
+- 🔭 Have played around with: 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,docker,vim,arduino,aws,bash,blender,bootstrap,cpp,cassandra,css,discord,express,figma,github,html,idea,ai,java,js,linux,md,mongodb,mysql,nodejs,postgres,postman,powershell,react,redis,redux,regex,sass,tailwind,vscode,xd&perline=12"/>
+</p>
 
-- 🔧 Using the following tools: ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-violet?style=plastic&logo=visual-studio) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?style=plastic&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-orange?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=plastic&logo=github)
 
-- 🌱 Currently learning:  ![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=plastic&logo=javascript) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb) ![PHP](https://img.shields.io/badge/-PHP-black?style=plastic&amp;logo=php&amp;logoColor=white)
-
-- 📜 For more details, visit [![Website Badge](https://img.shields.io/badge/-My_Website-blue?style=plastic&logo=Website&logoColor=white)](https://aarsh-patel.vercel.app/)
+- 📜 For more details, visit : 
+    <img align ="center" alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Faarsh-patel.vercel.app%2F&logo=portfilio&labelColor=blue&color=white">
 
 ### Want To Contact Me? 📱
 
+<p align="center">
+     <a href ="https://www.youtube.com/channel/UC8lWeV0xePxysVetCBGvLzA" target="blank">
+  <img align="center" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8lWeV0xePxysVetCBGvLzA?style=for-the-badge&logo=youtube&logoColor=red">
 
-[![Instagram Badge](https://img.shields.io/badge/-aarsh30-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/__mayank28/)](https://www.instagram.com/__mayank28/)
-
-[![Gmail Badge](https://img.shields.io/badge/patelaarsh3011@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:patelaarsh3011@gmail.com)](mailto:patelaarsh3011@gmail.com)
-
-[![Linkedin Badge](https://img.shields.io/badge/-AarshPatel-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aarshpatel30/)](https://www.linkedin.com/in/aarshpatel30/)
+</a>
+    <a href="https://www.linkedin.com/in/aarshpatel30/" target="blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashu_singh101"/>
+    </a>
+    <a href="https://www.instagram.com/_aarsh_patel/" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ashu.simgh" />
+    </a>
+    <a href="https://leetcode.com/Aarsh_Patel/" target="blank">
+        <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAarsh_Patel&logo=leetcode&logoColor=yellow" alt="ashu-singh"/>
+    </a>
+</p>
 
 <p align="center">
 <a href="https://github.com/Aarsh30">
