@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Ashu0Singh&color=blueviolet&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=Aarsh30&color=blueviolet&style=for-the-badge" />
 </p>
 
 ### Had Learn and Fun with it 📈
