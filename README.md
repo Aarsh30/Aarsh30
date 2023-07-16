@@ -7,7 +7,10 @@
 <h3 align="center"> Developer👨‍💻, Communities👨‍👩‍👧‍👦, YouTuber📹 </h3>
 
 ---
-
+<p align="center">
+    <img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20">
+</p>    
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Aarsh30&color=blueviolet&style=for-the-badge" />
 </p>
@@ -49,6 +52,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarsh30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarsh30&theme=algolia"/>
 </a>
+
 </p>
 
-[![Aarsh30's GitHub | Languages Over Time](https://stats.quine.sh/Aarsh30/languages-over-time?theme=light)](https://quine.sh)
+<!--[![Aarsh30's GitHub | Languages Over Time](https://stats.quine.sh/Aarsh30/languages-over-time?theme=light)](https://quine.sh)
+--->
