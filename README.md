@@ -23,8 +23,8 @@
 </p>
 
 
-- 📜 For more details, visit : 
-    <img align ="center" alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Faarsh-patel.vercel.app%2F&logo=portfilio&labelColor=blue&color=white">
+- 📜 For more details, visit :  <a href = "https://aarsh-patel.vercel.app/" target ="blank">  <img align ="center" alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Faarsh-patel.vercel.app%2F&logo=portfilio&labelColor=blue&color=white">
+    </a>
 
 ### Want To Contact Me? 📱
 
