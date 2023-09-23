@@ -5,10 +5,13 @@
 
 </p>
 <h3 align="center"> Developer👨‍💻, Open Source Contributor 👨‍👩‍👧‍👦, YouTuber📹 </h3>
-
+<!--  <div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" />
+  </div> -->
 ---
 <p align="center">
-    <img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!--     <img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
+     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" />
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20">
 </p>    
 <p align="center">
