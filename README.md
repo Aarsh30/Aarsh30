@@ -4,7 +4,7 @@
 <h2 align="center"> Hey There,I Am Aarsh Patel👋 </h2>
 
 </p>
-<h3 align="center"> Developer👨‍💻, Open Source Contributor 👨‍👩‍👧‍👦, YouTuber📹 </h3>
+<h3 align="center"> Developer👨‍💻, Open Source Contributor 👨‍👩‍👧‍👦, Learner </h3>
 <!--  <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" />
   </div> -->
