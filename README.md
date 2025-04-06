@@ -4,7 +4,7 @@
 <h2 align="center"> Hey There,I Am Aarsh Patel👋 </h2>
 
 </p>
-<h3 align="center"> Developer👨‍💻, Open Source Contributor 👨‍👩‍👧‍👦, Learner </h3>
+<h3 align="center"> Developer👨‍💻,Contenet Creator 👨‍👩‍👧‍👦, Learner </h3>
 <!--  <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" />
   </div> -->
@@ -22,7 +22,7 @@
 
 - 🔭 Have played around with: 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,vim,arduino,aws,azure,bash,bootstrap,cpp,cassandra,py,discord,express,git,github,html,css,idea,gcp,java,js,linux,mongodb,mysql,nodejs,postgres,postman,powershell,react,redis,threejs,sass,tailwind,vscode,raspberrypi,cloudflare,php,r,vercel,&perline=12"/>
+    <img src="https://skillicons.dev/icons?i=apple,docker,vim,arduino,aws,azure,bash,bootstrap,cpp,cassandra,py,discord,express,git,github,html,css,idea,gcp,java,js,linux,mongodb,mysql,nodejs,postgres,postman,powershell,react,ts,redis,threejs,sass,tailwind,vscode,raspberrypi,cloudflare,php,r,vercel,swift,&perline=12"/>
 </p>
 
 
@@ -50,15 +50,15 @@
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aarsh30&" alt="Aarsh30" /></p>
 <p align="center">
-<a href="https://github.com/Aarsh30">
+<!-- <a href="https://github.com/Aarsh30"> -->
   <!-- https://github-readme-activity-graph.vercel.app/graph?username=SantoshYadavDev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aarsh30&theme=github-compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarsh30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarsh30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarsh30&theme=algolia"/>
 </a>
-
+ -->
 </p>
 
-![logo](https://github.com/Aarsh30/Aarsh30/blob/main/snake%20gif.gif)
+<!-- ![logo](https://github.com/Aarsh30/Aarsh30/blob/main/snake%20gif.gif)
 <!--[![Aarsh30's GitHub | Languages Over Time](https://stats.quine.sh/Aarsh30/languages-over-time?theme=light)](https://quine.sh)
 --->
