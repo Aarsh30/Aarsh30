@@ -4,7 +4,7 @@
 <h2 align="center"> Hey There,I Am Aarsh Patel👋 </h2>
 
 </p>
-<h3 align="center"> Developer👨‍💻,Contenet Creator 👨‍👩‍👧‍👦, Learner </h3>
+<h3 align="center"> Builder 👨‍💻,Contenet Creator 👨‍👩‍👧‍👦, Learner </h3>
 <!--  <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" />
   </div> -->
@@ -26,16 +26,16 @@
 </p>
 
 
-- 📜 For more details, visit :  <a href = "https://aarsh-patel.vercel.app/" target ="blank">  <img align ="center" alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Faarsh-patel.vercel.app%2F&logo=portfilio&labelColor=blue&color=white">
+- 📜 For more details, Portfolio visit :  <a href = "https://aarsh-patel.vercel.app/" target ="blank">  <img align ="center" alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Faarsh-patel.vercel.app%2F&logo=portfilio&labelColor=blue&color=white">
     </a>
 
 ### 🚀 Currently Building  
 
-💡 **SWE180** → A platform crafted to help students learn and grow.  
-👉 [Start your journey with SWE180 🚀](https://www.swe180.com/)  
+💡 **SWE180** → Your Path to be software engineer 
+👉 [Don't regret it later ](https://www.swe180.com/)  
 
-🎯 **OnePercentEngineer** → An initiative to guide engineers towards impactful careers.  
-👉 [Level up with OnePercentEngineer ⚡](https://onepercentengineer.com/)  
+<!-- 🎯 **OnePercentEngineer** → An initiative to guide engineers towards impactful careers.  
+👉 [Level up with OnePercentEngineer ⚡](https://onepercentengineer.com/)   -->
 ### Want To Contact Me? 📱
 
 <p align="center">
